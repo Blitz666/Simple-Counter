@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  font-family: 'Noto Sans', sans-serif;
+  text-align: center;
+}
+
+#header {
+  text-decoration: none;
+  list-style-type: none;
+  margin: 150px;
+  margin-bottom: 0;
+  font-size: 14pt;
+  font-weight: 700;
+  background-color: lightcoral;
+  padding: 20px 40px;
+  border-style: unset;
+  border-color: yellowgreen;
+  border-width: 10px;
+}
+
+#header:hover {
+  color: whitesmoke;
+  background-color: aqua;
+  border-radius: 50%;
+}
+
+.button1 {
+  padding: 50px;
+  display: inline-block;
+  font-size: 25pt;
+  margin: 0 auto;
+}
+
+.button2 {
+  padding: 50px;
+  display: inline-block;
+  font-size: 25pt;
+  margin: 0 auto;
+}
+
+.counter {
+  display: block;
+  margin-top: 50px;
+}
+
+#currentNumber {
+  font-size: 60pt;
+  padding: 0 100px;
+  font-weight: 900;
+}
+
+.orange {
+  color: black;
+  background-color: orange;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.blue {
+  color: white;
+  background-color: blue;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.red {
+  color: black;
+  background-color: red;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.green {
+  color: black;
+  background-color: green;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.purple {
+  color: white;
+  background-color: purple;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.yellow {
+  color: black;
+  background-color: rgb(255, 230, 5);
+  font-family: 'Permanent Marker', cursive;
+}
+
+.lime {
+  color: black;
+  background-color: rgb(126, 255, 5);
+  font-family: 'Permanent Marker', cursive;
+}
